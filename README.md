@@ -74,8 +74,6 @@ Access at http://localhost
 **Profile:** GET/PUT `/api/users/profile`  
 **Tasks:** GET/POST `/api/tasks`, GET/PUT/DELETE `/api/tasks/:id`
 
-See [API_DOCS.md](backend/API_DOCS.md) for details. Import `backend/postman_collection.json` for testing.
-
 ## Security
 
 - Password hashing with bcrypt
