@@ -36,12 +36,6 @@ Visit http://localhost:5173
 **Backend:** Node.js, Express, MongoDB, Mongoose, JWT, bcrypt  
 **DevOps:** Docker, Docker Compose, nginx
 
-## Documentation
-
-- [API Documentation](backend/API_DOCS.md)
-- [Setup Guide](SETUP_GUIDE.md)
-- [Docker Guide](DOCKER_GUIDE.md)
-
 ## Project Structure
 
 ```
